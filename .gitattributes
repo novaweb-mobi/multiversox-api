@@ -1,0 +1,30 @@
+# Set default behavior to automatically normalize line endings
+* text=auto
+
+# C# files
+diff=csharp
+*.cs text diff=csharp
+*.csproj text
+*.sln text
+*.config text
+*.json text
+*.md text
+*.yml text
+*.yaml text
+*.sh text eol=lf
+*.bat text eol=crlf
+
+# Images
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.svg text
+
+# Archives
+*.zip binary
+*.tar binary
+*.gz binary
+*.7z binary
+*.rar binary 

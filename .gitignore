@@ -1,0 +1,69 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.swp
+*.DS_Store
+.vscode/
+*.dbmdl
+*.log
+*.vs/
+TestResults/
+*.ncrunch*
+*.localhistory/
+*.idea/
+*.sln.ide
+*.sln.iml
+*.sln.cache
+*.sln.docstates
+*.vspscc
+*.vssscc
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+*.vscode/
+# Rider
+.idea/
+*.sln.iml
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+# Mono Auto Generated Files
+test-results/
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+# Others
+*.nupkg
+*.snupkg
+*.bak
+*.tmp
+*.old
+*.orig
+*.rej
+*.log
+*.vs/
+# dotCover
+.idea/.dotCover
+# JetBrains Rider
+.idea/
+*.sln.iml
+# Local history for Visual Studio
+.localhistory/
+# Visual Studio Code
+.vscode/*
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt 
