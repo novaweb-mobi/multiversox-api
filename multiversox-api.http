@@ -1,0 +1,6 @@
+@multiversox_api_HostAddress = http://localhost:5225
+
+GET {{multiversox_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
